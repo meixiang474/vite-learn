@@ -1,0 +1,5 @@
+/* vite 会将 module.css自动识别为css module */
+
+.module-class {
+  color: yellow;
+}
